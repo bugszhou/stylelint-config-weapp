@@ -45,9 +45,7 @@ module.exports = {
           "open-data",
           "web-view",
           "ad",
-          "official-account",
-          "swiper",
-          "image"
+          "official-account"
         ]
       }
     ]
